@@ -1,7 +1,6 @@
 import org.testng.annotations.Test;
 import pages.HomePage;
 
-import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 import static utils.Properties.*;
 
